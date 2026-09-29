@@ -1,0 +1,6 @@
+BinaryOptionsToolsV2
+flask
+pandas
+numpy
+requests
+colorama
